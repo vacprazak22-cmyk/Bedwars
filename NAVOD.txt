@@ -1,0 +1,25 @@
+BED WARS – instalace jako aplikace do mobilu
+============================================
+
+Aplikace se musí jednou nahrát na web s adresou https://. Pak ji v mobilu otevřeš
+a přidáš na plochu. Od té chvíle se spouští ikonou, běží přes celou obrazovku
+a hraje se i bez internetu.
+
+1) Nahrání na web (zdarma, např. GitHub Pages)
+   - Na github.com si založ účet a vytvoř nový veřejný repozitář (např. "bedwars").
+   - Klikni "uploading an existing file" a přetáhni VŠECHNY soubory z této složky
+     (index.html, manifest.webmanifest, sw.js a všechny ikony .png). Potvrď "Commit".
+   - Settings → Pages → Branch: main, složka / (root) → Save.
+   - Za 1–2 minuty bude hra na adrese https://TVOJE-JMENO.github.io/bedwars/
+
+2) Android (Chrome)
+   - Otevři adresu hry v Chrome.
+   - Menu ⋮ → "Instalovat aplikaci" (nebo "Přidat na plochu").
+   - Spusť ikonou "Bed Wars" – běží přes celou obrazovku na šířku.
+
+3) iPhone (Safari)
+   - Otevři adresu hry v Safari.
+   - Tlačítko Sdílet → "Přidat na plochu".
+   - Spusť ikonou – běží bez lišty prohlížeče. Telefon otoč na šířku.
+
+Po prvním spuštění s internetem funguje hra i offline (v letadle, bez wi-fi).
